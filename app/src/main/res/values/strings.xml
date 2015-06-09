@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMessanger</string>
+    <string name="app_name_client">MyMsgClient</string>
+    <string name="app_name_server">MyMsgServer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
